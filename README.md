@@ -1,5 +1,5 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
-**Reg. No.:** 212223040157
+**Reg. No.:** 212223220068
 
 ## Aim  
 To demonstrate the ability of text-to-video generation tools to reproduce an existing video by crafting precise prompts, and to identify key elements within the video to generate a result as close as possible to the original.  
